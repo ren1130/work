@@ -2,6 +2,11 @@
 
 int main(void) 
 {
-  printf("hoge\n");
+  int i;
+
+  for (i=0; i<3; i++) {
+    printf("hoge\n");
+  }
+  
   return 0;
 }
