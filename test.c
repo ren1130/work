@@ -5,8 +5,8 @@ int main(void)
   int i;
 
   for (i=0; i<3; i++) {
-    printf("hoge\n");
+    printf("hoge=%d\n", i);
   }
-  
+
   return 0;
 }
