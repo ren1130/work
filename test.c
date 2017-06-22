@@ -8,5 +8,7 @@ int main(void)
     printf("hoge=%d\n", i);
   }
 
+  printf("I am Yoshida!\n");
+  
   return 0;
 }
